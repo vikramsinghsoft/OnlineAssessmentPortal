@@ -1,0 +1,13 @@
+Name: Vikram Bahadur Singh
+Email: vbsinghsoft@gmail.com
+Mobile No.:7093765293
+
+In this project use ASP.Net MVC
+
+steps to run the project.
+
+1) create one database with the name "MYDB".
+2)Now run the script.sql file which is attached  in the email. it will create 2 tables with respective data also.
+3)now open this project in visual studio and change the connection string in web.config file according to your machine sql server credential's.
+4)Now run the project and test.
+5) run below query to refresh data in db and start testing from beginning.
